@@ -1,4 +1,4 @@
-<h1>Project 1: Caesar Cipher</h1>
+# Project 1: Caesar Cipher
 
 Implement a caesar cipher that takes in a string and the shift factor and then outputs the modified string:
 
